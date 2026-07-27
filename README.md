@@ -3,7 +3,7 @@
 I'm a software developer passionate about building technology that solves real-world problems.
 
 Currently:
-- 🎓 Incoming Senior at Harmony School of Innovation
+- 🎓 Incoming high school senior 
 - 💻 Building mobile applications with React Native and Expo
 - 🚀 Founder & Developer of QuietHaven and VendorBoost
 - 🌎 Interested in software engineering, entrepreneurship, and open source
@@ -17,6 +17,10 @@ A React Native app helping students find productive study spaces.
 
 Tech:
 React Native • Expo • TypeScript
+
+
+
+https://github.com/user-attachments/assets/44acfddc-d03a-47b3-9afc-acb3843343c9
 
 
 
@@ -50,5 +54,4 @@ Python • Java • JavaScript • SQL • HTML/CSS
 Technologies:
 React Native • Expo • React • Git • GitHub • Supabase
 
-Tools:
-VS Code • Figma • GitHub Actions
+
