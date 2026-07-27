@@ -43,11 +43,7 @@ Analyzed accident trends, locations, and contributing factors to identify safety
 
 Tech: Python • Pandas • Data Analysis • Data Visualization • Folium
 
-<img width="1345" height="956" alt="image" src="https://github.com/user-attachments/assets/fb934600-10e4-4c3a-9f75-a6a795874cad" />
-
-<img width="1015" height="807" alt="image" src="https://github.com/user-attachments/assets/b6cb6c87-df4e-4563-a88d-5f86230d5a8b" />
-
-<img width="1012" height="556" alt="image" src="https://github.com/user-attachments/assets/259f29cb-bef4-4b7b-9099-8cdc20428844" />
+<img width="1345" height="956" alt="image" src="https://github.com/user-attachments/assets/fb934600-10e4-4c3a-9f75-a6a795874cad" /> <img width="1015" height="807" alt="image" src="https://github.com/user-attachments/assets/b6cb6c87-df4e-4563-a88d-5f86230d5a8b" />  <img width="1012" height="556" alt="image" src="https://github.com/user-attachments/assets/259f29cb-bef4-4b7b-9099-8cdc20428844" />
 
 
 
