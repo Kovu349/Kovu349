@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Chidiebube 👋
 
-<!--
-**Kovu349/Kovu349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about building technology that solves real-world problems.
 
-Here are some ideas to get you started:
+Currently:
+- 🎓 Incoming Senior at Harmony School of Innovation
+- 💻 Building mobile applications with React Native and Expo
+- 🚀 Founder & Developer of QuietHaven and VendorBoost
+- 🌎 Interested in software engineering, entrepreneurship, and open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### QuietHaven 📚
+A React Native app helping students find productive study spaces.
+
+Tech:
+React Native • Expo • TypeScript
+
+
+
+---
+
+### VendorBoost 📦
+A mobile-first business management platform helping small vendors manage products, inventory, and customers.
+
+Tech:
+React Native • Expo • Supabase
+
+
+
+---
+
+### Rise4Humans 🌎
+Website developer for a youth-led nonprofit organization focused on community impact.
+
+Tech:
+React • Vercel
+
+https://rise4humans.vercel.app/
+
+---
+
+## 🛠️ Skills
+
+Languages:
+Python • Java • JavaScript • SQL • HTML/CSS
+
+Technologies:
+React Native • Expo • React • Git • GitHub • Supabase
+
+Tools:
+VS Code • Figma • GitHub Actions
