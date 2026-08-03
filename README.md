@@ -3,7 +3,7 @@
 I'm a software developer passionate about building technology that solves real-world problems.
 
 Currently:
-- 🎓 Incoming high school senior 
+- 🎓 High school senior 
 - 💻 Building mobile applications with React Native and Expo
 - 🚀 Founder & Developer of QuietHaven and VendorBoost
 - 🌎 Interested in software engineering, entrepreneurship, and open source
@@ -31,6 +31,10 @@ A mobile-first business management platform helping small vendors manage product
 
 Tech:
 React Native • Expo • Supabase
+
+
+
+https://github.com/user-attachments/assets/10b17a2f-85c3-477a-ab9d-14ec8f83f747
 
 
 
