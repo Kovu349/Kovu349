@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/44acfddc-d03a-47b3-9afc-acb3843343c9
 
 ---
 
-### VendorBoost 📦
+### VendorBoost 📦 (Under development)
 A mobile-first business management platform helping small vendors manage products, inventory, and customers.
 
 Tech:
